@@ -4,10 +4,10 @@
 
 ## How to use links
 Use this URL pattern for default covers (you'll have to implement the automation yourself):
-<br>```https://raw.githubusercontent.com/alvesjohann/ps3-covers/refs/heads/main/covers/default/GAME-SERIAL.jpg```
+<br>```https://raw.githubusercontent.com/st-alves/ps3-covers/refs/heads/main/covers/default/GAME-SERIAL.jpg```
 
 Example: 
-<br>```https://raw.githubusercontent.com/alvesjohann/ps3-covers/refs/heads/main/covers/default/BCUS-98257.jpg```
+<br>```https://raw.githubusercontent.com/st-alves/ps3-covers/refs/heads/main/covers/default/BCUS-98257.jpg```
 
 ## Covers Stats (Physical Media)
 *This table considers the original ID files (like `BCUS-98257`), variants (like `BCUS-98257F`) are added and counted only when founded.*
